@@ -1,5 +1,8 @@
 ### Olá! Eu sou Everton Teixeira Pereira 👋
 
+Sou estudante de programação com foco em desenvolvimento FullStack e atualmente estou estudando ASP.NET e Javascript para melhorar na área 
+
+
 
 - 🖥️ Estudando C# e ASP.NET 
 - 💻 Estudando Javascript em paralelo com C# 
