@@ -35,5 +35,4 @@ Sou estudante de programação com foco em desenvolvimento FullStack e atualment
 <div class="social">
   <a href="https://www.linkedin.com/in/everton-teixeira-5b357b204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href="https://www.instagram.com/everton_t.p/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  <a href="https://www.facebook.com/everton.tp" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
 </div>
