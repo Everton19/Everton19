@@ -5,7 +5,6 @@ Sou estudante de programação com foco em desenvolvimento FullStack e atualment
 
 
 - 🖥️ Estudando C# e ASP.NET 
-- 💻 Estudando Javascript em paralelo com C# 
 - 👨 Ele/Dele
 
 ### Contato:
