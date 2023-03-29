@@ -32,7 +32,7 @@ Sou estudante de programação com foco em desenvolvimento Backend e atualmente 
   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 </div>
 
-### Redes Sociais:
+### Linkedin:
 <div class="social">
-  <a height="30" width="40" href="https://www.linkedin.com/in/everton-teixeira-pereira/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank">
+  <a href="https://www.linkedin.com/in/everton-teixeira-pereira/" target="_blank"><img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank">
 </div>
