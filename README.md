@@ -34,6 +34,5 @@ Sou estudante de programação com foco em desenvolvimento Backend e atualmente 
 
 ### Redes Sociais:
 <div class="social">
-  <a href="https://www.linkedin.com/in/everton-teixeira-pereira/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank">
-  <a href="https://www.instagram.com/everton_t.p/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a height="30" width="40" href="https://www.linkedin.com/in/everton-teixeira-pereira/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank">
 </div>
