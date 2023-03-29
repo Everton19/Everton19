@@ -1,6 +1,6 @@
 ### Olá! Eu sou Everton Teixeira Pereira 👋
 
-Sou estudante de programação com foco em desenvolvimento FullStack e atualmente estou estudando ASP.NET e Javascript para melhorar na área 
+Sou estudante de programação com foco em desenvolvimento Backend e atualmente estou estudando C# e ASP.NET com Angular para melhorar meus conhecimentos com estas tecnologias. 
 
 
 
@@ -14,10 +14,11 @@ Sou estudante de programação com foco em desenvolvimento FullStack e atualment
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Everton19)](https://github.com/Everton19/github-readme-stats)
 
-### Habilidades:
+### Skills:
 <div class="back">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
 <div class"front">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
