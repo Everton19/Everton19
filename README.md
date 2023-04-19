@@ -1,18 +1,17 @@
-### Olá! Eu sou Everton Teixeira Pereira 👋
+### Hello! I'm Everton Teixeira Pereira 👋
 
-Sou estudante de programação com foco em desenvolvimento Backend e atualmente estou estudando C# e ASP.NET com Angular para melhorar meus conhecimentos com estas tecnologias. 
+I am a Backend developer and currently studying C# and ASP.NET with Angular to improve my knowledge of these technologies. I love learning new things and constantly improving my programming skills.
 
+- .NET/C# Developer
+- Web: Angular/Javascript Developer
 
-
-- 🖥️ Estudando C# e ASP.NET 
-- 👨 Ele/Dele
-
-### Contato:
+### Contact:
 - 📫 Email: evertontp5@gmail.com
-- 📱 Celular: (54) 981082114
+- 📱 Phone: (54) 981082114
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Everton19)](https://github.com/Everton19/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=Mini_ChatBot,Project-IA,Django-Project-Learning-&username=AureoFJunior&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills:
 <div class="skills">
